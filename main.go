@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("dev2 world")
+	fmt.Println("dev1 world")
 	// dev2
 }
